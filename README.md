@@ -4,5 +4,5 @@
 • [Havoc-OS](https://github.com/Havoc-OS)<br/>
 • [freemarkw project](https://github.com/freemarkw)<br/>
 • [SonicBSV](https://github.com/SonicBSV)<br/>
-• [franciscofranco](https://github.com/franciscofranco)<br/>
+• [krasCGQ](https://github.com/krasCGQ)<br/>
 • [redispade](https://github.com/redispade)<br/>**
