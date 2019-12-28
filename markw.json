@@ -1,13 +1,13 @@
 {
   "response": [
     {
-      "filename": "Havoc-OS-v2.9-20191226-markw-Unofficial.zip",
+      "filename": "Havoc-OS-v2.9-20191228-markw-Unofficial.zip",
       "version": "v2.9",
       "romtype": "Unofficial",
-      "size": 564412991,
-      "datetime": 1577346615,
-      "id": "01a660dce934afba66327007c19e0990",
-      "url": "https://github.com/ShihabZzz/Havoc-OS-Releases/releases/download/5.0/Havoc-OS-v2.9-20191226-markw-Unofficial.zip"
+      "size": 563990606,
+      "datetime": 1577544884,
+      "id": "6984def9dda0edf42ed7e4b50533c29d",
+      "url": "https://github.com/ShihabZzz/Havoc-OS-Releases/releases/download/6.0/Havoc-OS-v2.9-20191228-markw-Unofficial.zip"
     }
   ]
 }
