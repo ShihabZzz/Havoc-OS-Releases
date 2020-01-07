@@ -3,6 +3,6 @@
 
 
 
-• Synced latest Havoc-OS sources as of 03 January 2020
-• Remove hostapd
-• Refactor & Fix WCNSS symlink
+• Re-organize & cleanup code
+• Add missing ADSP blob from Daisy V10.0.17.0
+• sepolicy: address init denial
